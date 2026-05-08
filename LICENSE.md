@@ -1,4 +1,4 @@
-
+custom Integration for Notion for macOS - voice notes and markdown support offers the most advanced Notion for macOS integration, with voice notes and markdown support. Ideal for
 
 
 
